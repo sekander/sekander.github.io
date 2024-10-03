@@ -1,0 +1,142 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #fff;
+    color: #000;
+}
+a:link{
+    color: #F00;
+}
+.deadnav{
+    color:#FFF;
+    background-color: #3CF
+}
+
+a:visited{
+    color: #fc0;
+}
+
+a:hover{
+    background-color: #3CF;
+    color: #03F;
+}
+
+a:active{
+    color: #F3F;
+}
+
+.logo{
+    font-size: 36px;
+}
+
+#navlist li {
+    display: inline;
+    list-style-type: circle;
+    padding-right: 20px;
+    border-left: 1px solid #000;
+    line-height: 1.1em;
+    margin: 0 .5em 0 -.5em;
+    padding: 0 .5em 0 .5em;
+}
+
+#lower_navlist li {
+    display: inline;
+    list-style-type: circle;
+    padding-right: 20px;
+    border-left: 1px solid #000;
+    line-height: 1.1em;
+    margin: 0 .5em 0 -.5em;
+    padding: 0 .5em 0 .5em;
+}
+
+.box {
+    margin: 10px;
+    padding: 10px; 
+    background-color: #666;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    clear: both;
+}
+
+.nav{
+    margin: 10px;
+    padding: 10px;
+    background-color: #999;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+.left{
+    width: 20%;
+    margin: 10px;
+    padding: 10px;
+    background-color: #CCC;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    float:left
+}
+.centre {
+    width: 47%;
+    margin: 10px;
+    background-color: #CCC;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    float: left;
+}
+.right {
+    width: 20%;
+    margin: 10px;
+    padding: 10px;
+    background-color: #CCC;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    float: right;
+}
+
+.lower_nav {
+    margin: 10px;
+    padding: 10px;
+    background-color: #999;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    clear: both;
+}
+
+.legal {
+    margin: 10px;
+    padding: 10px;
+    background-color: #999;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    float: none;
+    clear:both
+}
+
+.legal li {
+    display: inline;
+    list-style-type: circle;
+    padding-right: 20px;
+    border-left: 1px solid #000;
+    line-height: 1.1em;
+    margin: 0 .5em 0 -.5em;
+    padding: 0 .5em 0 .5em;
+}
+
+
+#about_body {
+    margin: 10px;
+    padding: 10px;
+    background-color: darkolivegreen;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    font-size: larger;
+}
